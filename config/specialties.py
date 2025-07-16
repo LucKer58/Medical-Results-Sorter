@@ -1,8 +1,10 @@
 MEDICAL_SPECIALTIES = {
     "cardiology": {
-        "keywords": ["heart", "cardiac", "cardiovascular", "artery", "blood pressure", 
-                    "ekg", "myocardial", "arrhythmia", "coronary", "pacemaker"],
-        "mesh_terms": ["Cardiology", "Heart Diseases", "Cardiovascular System"]
+        "keywords": ["heart", "cardiac", "cardiovascular", "coronary", "artery", "arterial",
+                    "myocardial", "angina", "arrhythmia", "hypertension", "blood pressure",
+                    "atrial", "ventricular",  "fibrillation","ekg", "ecg", "electrocardiogram", 
+                    "echo", "catheterization", "angiogram","pacemaker", "defibrillator", "bypass", "stent", "ablation", "infarction"],
+        "mesh_terms": ["Cardiology", "Heart Diseases", "Cardiovascular System", "Myocardial Infarction"]
     },
 
     "neurology": {
