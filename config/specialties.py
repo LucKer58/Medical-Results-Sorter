@@ -67,7 +67,7 @@ MEDICAL_SPECIALTIES = {
         "keywords": ["infection", "infectious", "bacterial", "viral", "fungal", "antibiotic",
                     "fever", "sepsis", "pneumonia", "tuberculosis", "hepatitis", "hiv",
                     "culture", "organism", "pathogen", "microbiology", "antimicrobial"],
-        "mesh_terms": ["Infectious Diseases", "Bacterial Infections", "Viral Diseases"]
+        "mesh_terms": ["Infectious Diseases", "Bacterial Infections", "Viral Diseases", "Pathology"]
     },
 
     "obstetrics_gynecology": {
