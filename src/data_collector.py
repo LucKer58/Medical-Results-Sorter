@@ -48,7 +48,6 @@ class PubMedDataCollector:
             abstracts = self.get_abstracts(all_ids)
             data = {'speciality': specialty_name, 'abstracts': abstracts}
             with open(f'data/raw/{specialty_name}_abstracts.json', 'w') as f:
- 
                 json.dump(data, f)
 
 if __name__ == "__main__":
